@@ -1,2 +1,2 @@
-# calculadora_castro
+# calculadora
 Uma calculadora qualquer com javascript puro
