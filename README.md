@@ -1,2 +1,2 @@
-# calculadora
-Uma calculadora qualquer com javascript puro
+# Calculadora
+Uma calculadora Teste feita com javascript puro
